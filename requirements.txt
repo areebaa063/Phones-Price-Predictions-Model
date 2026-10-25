@@ -1,0 +1,12 @@
+# Smartphone Price Prediction – Dependencies
+# Compatible with Google Colab (free tier) and Streamlit Community Cloud.
+# Python 3.11
+
+streamlit==1.64.0
+scikit-learn==1.7.2
+pandas==2.3.3
+numpy==2.2.6
+xgboost==2.1.3
+matplotlib==3.10.3
+tqdm==4.67.1
+joblib==1.4.2
