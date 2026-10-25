@@ -2,8 +2,8 @@
 
 Predicts the **price (USD) of a smartphone** from its specifications, brand, operating system and release date. Five regression algorithms are compared with **10-fold cross validation** and **RMSE**; the best one is saved as `model.pkl` and served through a **Streamlit** web app.
 
-**Live app:** https://phones-price-prediction-areeba-tahir.streamlit.app/
-**GitHub repository:** https://github.com/areebaa063/phones-price-prediction
+- **Live app:** https://phones-price-prediction-areeba-tahir.streamlit.app/
+- **GitHub repository:** https://github.com/areebaa063/phones-price-prediction
 
 | | |
 |---|---|
